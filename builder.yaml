@@ -4,4 +4,4 @@ buildtool: npm
 buildfile: ""
 buildcmd: npm install
 outputpath: ""
-dockercmd: "docker build -t . ilarocca/yaml-named:1.0"
+dockercmd: "docker build . -t ilarocca/yaml-named:1.0"
