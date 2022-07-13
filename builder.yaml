@@ -1,7 +1,6 @@
-projectpath: /Users/ivanlarocca/Projects/Builder
+projectpath: "/Users/ilarocca/Documents/simple-reactjs-app"
 projecttype: node
 buildtool: npm
 buildfile: ""
 buildcmd: npm install
-outputpath: ""
-dockercmd: "docker build . -t ilarocca/yaml-named:1.0"
+outputpath: "/Users/ilarocca/Documents/Artifacts/simple-reactjs-app"
