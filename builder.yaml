@@ -4,3 +4,4 @@ buildTool: npm
 buildFile: ""
 buildCmd: npm install
 outputPath: "/Users/ilarocca/Documents/Artifacts/simple-reactjs-app"
+bypassPrompts: true
