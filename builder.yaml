@@ -1,6 +1,6 @@
-projectpath: "/Users/ilarocca/Documents/simple-reactjs-app"
-projecttype: node
-buildtool: npm
-buildfile: ""
-buildcmd: npm install
-outputpath: "/Users/ilarocca/Documents/Artifacts/simple-reactjs-app"
+projectPath: "/Users/ilarocca/Documents/simple-reactjs-app"
+projectType: node
+buildTool: npm
+buildFile: ""
+buildCmd: npm install
+outputPath: "/Users/ilarocca/Documents/Artifacts/simple-reactjs-app"
