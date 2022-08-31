@@ -4,4 +4,5 @@ buildTool: npm
 buildFile: ""
 buildCmd: npm install
 outputPath: "/Users/ilarocca/Documents/Artifacts/simple-reactjs-app"
+repoBranch: "feature/new-branch"
 bypassPrompts: true
